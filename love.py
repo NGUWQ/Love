@@ -139,4 +139,4 @@ if __name__ == '__main__':
             main()
             time.sleep(60)
         else:
-            print("还没到示爱的时间哟，现在时间：" + love_time)
+            print("还没到表白的时间哟，现在时间：" + love_time)
