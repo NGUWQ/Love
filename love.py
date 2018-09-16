@@ -10,7 +10,7 @@ import datetime
 
 
 love_word_path='love_word.txt'
-pic_path='示爱图片'
+pic_path='表白图片'
 
 def crawl_Love_words():
     """
